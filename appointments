@@ -12,7 +12,20 @@ print fifth_letter
 # print: Y
 
 #Função len
+
 #informa o tamanho da string
 parrot = "Norwegian Blue"
 print len(parrot)
 # print: 14
+
+#Função lower and upper
+
+#lower transforma tudo em minúsculo
+#upper transforma tudo em maiúsculo
+parrot = "Norwegian Blue"
+print parrot.lower()
+# print: norwegian blue
+parrot = "Norwegian Blue"
+print parrot.upper()
+
+
