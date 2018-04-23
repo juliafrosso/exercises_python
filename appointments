@@ -27,5 +27,5 @@ print parrot.lower()
 # print: norwegian blue
 parrot = "Norwegian Blue"
 print parrot.upper()
-
+# print: NORWEGIAN BLUE
 
