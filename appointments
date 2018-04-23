@@ -34,3 +34,12 @@ print parrot.upper()
 #transforma uma variável que não é string em string
 pi = 3.14
 print str(pi)
+
+#Lembrete
+
+str(x)
+len(x)
+x.upper()
+x.lower()
+
+
