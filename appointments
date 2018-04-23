@@ -10,3 +10,9 @@
 fifth_letter = "MONTY"[4]
 print fifth_letter
 # print: Y
+
+#Função len
+#informa o tamanho da string
+parrot = "Norwegian Blue"
+print len(parrot)
+# print: 14
