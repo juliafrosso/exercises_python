@@ -29,3 +29,8 @@ parrot = "Norwegian Blue"
 print parrot.upper()
 # print: NORWEGIAN BLUE
 
+#Função str
+
+#transforma uma variável que não é string em string
+pi = 3.14
+print str(pi)
