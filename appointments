@@ -1,0 +1,8 @@
+#String
+Algumas caracteres podem causar problema numa string
+
+[errado] frase = "That's my girl!"
+
+That's vai dar problema, o correto é colocar um \ antes do '
+
+[correto] frase = "That\'s my girl!"
